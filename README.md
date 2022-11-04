@@ -1,1 +1,1 @@
-# gradle7.5-kotlin1.7.20
+# gradle-kotlin-latest
